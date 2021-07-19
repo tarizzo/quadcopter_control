@@ -23,6 +23,6 @@ Simulation Setup:
     - Simulink Deisgn Verifier
     - Simulink Requirements
 * Opening Simulation:
-    \>> asbQuadcopterStart
+    - \>> asbQuadcopterStart
 * Simulation Resources:
-    https://www.mathworks.com/videos/drone-simulation-and-control-part-1-setting-up-the-control-problem-1539323440930.html
+    - https://www.mathworks.com/videos/drone-simulation-and-control-part-1-setting-up-the-control-problem-1539323440930.html
